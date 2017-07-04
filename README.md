@@ -1,13 +1,5 @@
-### EXE 
-as of march 2017 the bot runs from a exe that you can  download from the releases tab
-
-### EMU
-
-pcsx2//gba//fightcade//ps1//pc
 
 
-A twitch plays bot for twitch to send cmds to games for chat to play.
-This is bot is based on and uses code from https://github.com/sunshinekitty/TwitchPlaysPokemon
 
 
 
