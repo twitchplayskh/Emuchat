@@ -1,3 +1,4 @@
+:: not a 100% working
 @echo off
 
 :: TODO: Read paths from config file.
