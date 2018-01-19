@@ -1,7 +1,7 @@
 
 
 
-temporary fix  replace game in code woth the Directory for game so like this 
+temporary fix  replace (game) in code woth the Directory for game so like this 
 eddit to what you have C:\Users\twitchplays\Desktop\Emuchat-master\game
 ![alt tag](https://user-images.githubusercontent.com/7377207/35154197-3cc441ba-fd21-11e7-9f4a-614377f13452.png)
 
