@@ -1,7 +1,8 @@
 
 
 
-
+temporary fix  replace game in code woth the Directory for game so like this 
+eddit to what you have C:\Users\twitchplays\Desktop\Emuchat-master\game
 
 
 ### Installing
